@@ -10,7 +10,7 @@ public class Bank implements Serializable {
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; 
 	private BankAccount[] accounts= new BankAccount[100];
 	public int addAccount(BankAccount acc)
 	{
