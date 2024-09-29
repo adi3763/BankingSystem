@@ -11,7 +11,7 @@ public class FileIO {
 	
 	
 public static Bank bank=null;
-
+ 
 
 	public static void Read()
 	{
